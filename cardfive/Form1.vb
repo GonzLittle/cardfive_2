@@ -2,7 +2,7 @@
 Imports MetroFramework
 
 Public Class Form1
-    'jshgdkhgakshdgfjhasgdkjfgjhagsdkj
+    'try ta man sagdjhfgjhsajhdgfjhsadf
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'DateTimePicker1.Format = DateTimePickerFormat.Custom
         'DateTimePicker1.CustomFormat = "MM/dd/yyyy"
