@@ -2,6 +2,7 @@
 Imports MetroFramework
 
 Public Class Form1
+    'jshgdkhgakshdgfjhasgdkjfgjhagsdkj
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'DateTimePicker1.Format = DateTimePickerFormat.Custom
         'DateTimePicker1.CustomFormat = "MM/dd/yyyy"
@@ -374,7 +375,7 @@ Public Class Form1
         Label33.Text = MetroGrid1.CurrentRow.Cells(16).Value.ToString.Trim
 
         Button7.Text = MetroGrid1.CurrentRow.Cells(17).Value.ToString.Trim
-        Button8.Text = MetroGrid1.CurrentRow.Cells(18).Value.ToString.Trim
+        button8.Text = MetroGrid1.CurrentRow.Cells(18).Value.ToString.Trim
         Button9.Text = MetroGrid1.CurrentRow.Cells(19).Value.ToString.Trim
 
     End Sub
